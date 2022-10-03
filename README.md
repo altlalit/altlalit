@@ -47,3 +47,5 @@ I am a computer science undergrad <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
 </div>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codelalit007&label=Profile%20views&color=0e75b6&style=flat" alt="Lalit" /> </p>
