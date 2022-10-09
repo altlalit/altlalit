@@ -15,7 +15,8 @@
 </h1>
 <br>
 <div align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codelalit007&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=react" alt="GitHub stats"  height="200px"/>
+  <a href = "https://github.com/codelalit007/">
+  <img src="https://github-readme-stats.vercel.app/api?username=codelalit007&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=react" alt="GitHub stats"  height="200px"/></a>
 </div>
 <br>
 ---
