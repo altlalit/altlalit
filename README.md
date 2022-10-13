@@ -50,3 +50,4 @@ I am a computer science undergrad <img src="https://media.giphy.com/media/WUlplc
 </div>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codelalit007&label=Profile%20views&color=0e75b6&style=flat" alt="Lalit" /> </p>
+[![@codelalit's Holopin board](https://holopin.me/codelalit)](https://holopin.io/@codelalit)
