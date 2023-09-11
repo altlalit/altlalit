@@ -3,10 +3,7 @@
 </div>
 <br>
 <div id="badges" align="center">
-<!--   <a href = "https://www.codelalit.me"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website"/></a> -->
-  <a href = "https://www.linkedin.com/in/codelalit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href = "https://twitter.com/codelalit"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
-<!--   <a href = "https://www.instagram.com/codelalit/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a> -->
+
 </div>
 <br>
 <h1 align = "center">
