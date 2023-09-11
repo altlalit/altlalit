@@ -25,8 +25,6 @@ I am a computer science undergrad <img src="https://media.giphy.com/media/WUlplc
 - :seedling: I also work as a web developer in my free time.
 
 - :zap: In my leisure time, I like to play badminton and learn new skills.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-lalit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/codelalit/)
 <br>
 ---
 
