@@ -12,8 +12,8 @@
 </h1>
 <br>
 <div align = "center">
-  <a href = "https://github.com/codelalit007/">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeLalit007&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=react" alt="GitHub stats"  height="200px"/></a>
+  <a href = "https://github.com/altlalit/">
+  <img src="https://github-readme-stats.vercel.app/api?username=altlalit&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=react" alt="GitHub stats"  height="200px"/></a>
 </div>
 <br>
 ---
@@ -44,6 +44,6 @@ I am a computer science undergrad <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
 </div>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codelalit007&label=Profile%20views&color=0e75b6&style=flat" alt="Lalit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=altlalit&label=Profile%20views&color=0e75b6&style=flat" alt="Lalit" /> </p>
 
 [![@codelalit's Holopin board](https://holopin.me/codelalit)](https://holopin.io/@codelalit)
